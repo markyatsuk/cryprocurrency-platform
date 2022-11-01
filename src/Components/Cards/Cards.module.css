@@ -1,0 +1,35 @@
+.card {
+  background: #0a0a0d;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.35);
+  border-radius: 46px;
+  padding: 35px 40px 24px 23px;
+  width: calc(100% - 63px);
+}
+
+.preTitle {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #aaaaaa;
+  margin-bottom: 50px;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 43px;
+  margin-bottom: 50px;
+}
+
+.afterTitle {
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #aaaaaa;
+}
+
+.card {
+  margin-bottom: 25px;
+}

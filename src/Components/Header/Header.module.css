@@ -1,0 +1,15 @@
+.header {
+  padding: 40px 0;
+}
+
+.logo {
+  color: #ffffff;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
