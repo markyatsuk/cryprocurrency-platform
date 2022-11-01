@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cryprocurrency-platform/static/css/main.9fcfbae3.css",
+    "main.js": "/cryprocurrency-platform/static/js/main.adcf6622.js",
+    "static/media/hero.png": "/cryprocurrency-platform/static/media/hero.0befffdb92f1185abc38.png",
+    "static/media/bar.svg": "/cryprocurrency-platform/static/media/bar.f3dfa9181ea5910f2133a5e4a27f8eb1.svg",
+    "static/media/triangle.svg": "/cryprocurrency-platform/static/media/triangle.aad684b8c4dfd80451d93ed82b30ab0c.svg",
+    "index.html": "/cryprocurrency-platform/index.html",
+    "static/media/arrow.svg": "/cryprocurrency-platform/static/media/arrow.2ec874fe1d672a2de0cda66d30794080.svg",
+    "static/media/menu.svg": "/cryprocurrency-platform/static/media/menu.c273042cfd59743ae8112e20397bcbe8.svg",
+    "main.9fcfbae3.css.map": "/cryprocurrency-platform/static/css/main.9fcfbae3.css.map",
+    "main.adcf6622.js.map": "/cryprocurrency-platform/static/js/main.adcf6622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fcfbae3.css",
+    "static/js/main.adcf6622.js"
+  ]
+}
